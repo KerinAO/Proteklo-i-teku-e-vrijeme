@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\StatusStripKontrola\bin\Debug\StatusStripKontrola.exe.config
+C:\Users\ucenik\source\repos\StatusStripKontrola\bin\Debug\StatusStripKontrola.exe
+C:\Users\ucenik\source\repos\StatusStripKontrola\bin\Debug\StatusStripKontrola.pdb
+C:\Users\ucenik\source\repos\StatusStripKontrola\obj\Debug\StatusStripKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\StatusStripKontrola\obj\Debug\StatusStripKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\StatusStripKontrola\obj\Debug\StatusStripKontrola.Form1.resources
+C:\Users\ucenik\source\repos\StatusStripKontrola\obj\Debug\StatusStripKontrola.Properties.Resources.resources
+C:\Users\ucenik\source\repos\StatusStripKontrola\obj\Debug\StatusStripKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\StatusStripKontrola\obj\Debug\StatusStripKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\StatusStripKontrola\obj\Debug\StatusStripKontrola.exe
+C:\Users\ucenik\source\repos\StatusStripKontrola\obj\Debug\StatusStripKontrola.pdb
